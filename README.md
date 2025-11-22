@@ -12,7 +12,7 @@
 This section describes all variables included in the dataset, along with their data types and meanings.
 
 | Variable Name | Type      | Description                                                               |
-| ------------- | --------- | ------------------------------------------------------------------------- |
+| :-----------: | --------- | ------------------------------------------------------------------------- |
 | **age**       | `INTEGER` | Client's age                                                              |
 | **job**       | `STRING`  | Type of job the client has                                                |
 | **marital**   | `STRING`  | Marital status                                                            |
@@ -143,11 +143,3 @@ Query results:
 - Capture Young Customer Loyalty Early
   - Design student and young professional deposit accounts with low barriers, gamified savings, and mobile-first onboarding.
   - Encourage early deposit behavior to build long-term brand loyalty.
-
-
-<img width="633" height="111" alt="Image" src="https://github.com/user-attachments/assets/979eb4a4-bd8c-43d8-8660-0bee3e34f722" />
-
-Q8
-<img width="701" height="177" alt="Image" src="https://github.com/user-attachments/assets/27734ccb-82bd-43d7-985e-fbd7f3cb133e" />
-
-<img width="634" height="356" alt="Image" src="https://github.com/user-attachments/assets/c6321dea-b201-451d-af78-50118377305f" />
