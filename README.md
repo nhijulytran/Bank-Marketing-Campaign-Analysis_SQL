@@ -3,6 +3,7 @@
 ## 1. Overview
 - This project explores a ***Bank Marketing Dataset*** to uncover insights into customer behavior and marketing campaign performance.
 - The goal is to identify what factors influence a customer’s decision to open a deposit account — using SQL for analysis in Google BigQuery.
+- How to increase the deposit rate from the existing customer?
 
 ## 2. Dataset
 - Dataset Source: [*Bank Marketing Dataset*](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data)
